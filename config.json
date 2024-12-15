@@ -1,0 +1,22 @@
+{
+    "database": {
+      "default": {
+        "host": "127.0.0.1",
+        "port": "3306",
+        "user": "root",
+        "pwd": "root",
+        "name": "go_admin_demo",
+        "driver": "mysql"
+      }
+    },
+    "prefix": "admin",
+    "store": {
+      "path": "./uploads",
+      "prefix": "uploads"
+    },
+    "language": "en",
+    "index": "/",
+    "debug": true,
+    "bootstrap_file_path": "./bootstrap.go",
+    "theme": "sword"
+  }
