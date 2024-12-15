@@ -1,0 +1,8 @@
+.idea
+.vscode
+config.json
+config
+uploads
+build
+deploy
+.DS_Store
